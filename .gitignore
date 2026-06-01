@@ -1,0 +1,16 @@
+# Ortam değişkenleri
+.env
+.env.local
+.env.production
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+
+# Log dosyaları
+logs
+*.log
+
+# Build çıktıları (Derlenmiş dosyalar)
+dist/
+build/
